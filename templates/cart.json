@@ -8,6 +8,28 @@
         "padding_bottom": 36
       }
     },
+    "customers_also_bought_68HRWU": {
+      "type": "customers-also-bought",
+      "settings": {
+        "title": "Customers Also Bought",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "customers-also-bought",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "cart-footer": {
       "type": "main-cart-footer",
       "blocks": {
@@ -91,6 +113,7 @@
   },
   "order": [
     "cart-items",
+    "customers_also_bought_68HRWU",
     "cart-footer",
     "featured_collection_qJYU9f",
     "featured-collection"
